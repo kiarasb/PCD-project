@@ -1,0 +1,175 @@
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-3
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Change Component Footprint: Designator=BT1 Old Footprint=BATHLD-001 New Footprint=3096
+Change Component Footprint: Designator=BT2 Old Footprint=BATHLD-001 New Footprint=3096
+Change Component Comment : Designator=BT1 Old Comment=BAT-HLD-001 New Comment=LR44
+Change Component Comment : Designator=BT2 Old Comment=BAT-HLD-001 New Comment=LR44
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED6
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Managed Component Library Link : Designator=BT1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E7C86092-35A7-4FCA-8719-3560D88AC2AD New ItemGUID= Old RevisionGUID=7E1E8150-176F-4F44-B9B1-26A7BA5A377C New RevisionGUID=
+Change Managed Component Library Link : Designator=BT2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E7C86092-35A7-4FCA-8719-3560D88AC2AD New ItemGUID= Old RevisionGUID=7E1E8150-176F-4F44-B9B1-26A7BA5A377C New RevisionGUID=
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "BATHLD-001"; UniqueID = "\ZNEJYDSE" ("\ZNEJYDSE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3096-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BT2" ("BT2"); Footprint = "BATHLD-001"; UniqueID = "\YRQYLZYX" ("\YRQYLZYX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3096-ND"; VariantName = "[No Variations]"
+Added Component: Designator=BT3(3096)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3096-ND"; VariantName = "[No Variations]"
+Added Component: Designator=BT4(3096)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3096-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 150505M173300
+Added Component: Designator=R4(RES 0603_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28773/crcwce3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603200RFKEAC/7928457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/19/2022 1:22:05 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RFKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "12623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CRCW-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-4035-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0603_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT240R/1713818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/19/2022 1:22:12 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0603FT240R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "10745"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "240 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RMCF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.061" L x 0.031" W (1.55mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "738-RMCF0603FT240RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0603_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28773/crcwce3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603200RFKEAC/7928457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/19/2022 1:22:05 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RFKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "12623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CRCW-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-4035-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT4-2
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED2-4
+Add Pin To Net: Unknown Pin: Pin LED2-6
+Added Pin To Net: NetName=NetBT1_2 Pin=R4-1
+Added Pin To Net: NetName=NetBT1_2 Pin=R5-1
+Added Pin To Net: NetName=NetBT1_2 Pin=R7-1
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=NetBT1_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED2_3 New Net Name=NetLED3_3
+Change Net Name : Old Net Name=NetLED2_5 New Net Name=NetLED3_5
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetLED3_3 New Net Name=NetLED4_3
+Change Net Name : Old Net Name=NetLED3_5 New Net Name=NetLED4_5
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED5_1
+Change Net Name : Old Net Name=NetLED4_3 New Net Name=NetLED5_3
+Change Net Name : Old Net Name=NetLED4_5 New Net Name=NetLED5_5
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED6_1
+Change Net Name : Old Net Name=NetLED5_3 New Net Name=NetLED6_3
+Change Net Name : Old Net Name=NetLED5_5 New Net Name=NetLED6_5
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=BT2-1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT2-1
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetBT2_2 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_2 Pin=BT3-1
+Added Pin To Net: NetName=NetBT2_2 Pin=BT3-1
+Added Net: Name=NetBT2_2
+Added Pin To Net: NetName=NetBT3_2 Pin=BT3-2
+Added Pin To Net: NetName=NetBT3_2 Pin=BT4-1
+Added Pin To Net: NetName=NetBT3_2 Pin=BT4-1
+Added Net: Name=NetBT3_2
+Added Pin To Net: NetName=NetLED2_1 Pin=R4-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_3 Pin=R5-2
+Added Net: Name=NetLED2_3
+Added Pin To Net: NetName=NetLED2_5 Pin=R7-2
+Added Net: Name=NetLED2_5
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT3 LR44
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT4 LR44
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED6 150505M173300
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R16 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R17 240 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R18 200 Ohms
