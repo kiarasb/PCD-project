@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=LED?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=LED?-4
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=LED?-6
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=PCD-disc-schematic Member=LED?
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED8
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Component: Designator=LED4(150505M173300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150505M173300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150505M173300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150505M173300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150505M173300?qs=fAHHVMwC%252Bbi%2FURn4Qu0%2FAA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(150505M173300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150505M173300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150505M173300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150505M173300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150505M173300?qs=fAHHVMwC%252Bbi%2FURn4Qu0%2FAA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=LED4-4
+Added Pin To Net: NetName=GND Pin=LED4-6
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED6-4
+Added Pin To Net: NetName=GND Pin=LED6-6
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED5_1
+Change Net Name : Old Net Name=NetLED4_3 New Net Name=NetLED5_3
+Change Net Name : Old Net Name=NetLED4_5 New Net Name=NetLED5_5
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED7_1
+Change Net Name : Old Net Name=NetLED5_3 New Net Name=NetLED7_3
+Change Net Name : Old Net Name=NetLED5_5 New Net Name=NetLED7_5
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED8_1
+Change Net Name : Old Net Name=NetLED6_3 New Net Name=NetLED8_3
+Change Net Name : Old Net Name=NetLED6_5 New Net Name=NetLED8_5
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED4_3 Pin=LED4-3
+Added Net: Name=NetLED4_3
+Added Pin To Net: NetName=NetLED4_5 Pin=LED4-5
+Added Net: Name=NetLED4_5
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED6_3 Pin=LED6-3
+Added Net: Name=NetLED6_3
+Added Pin To Net: NetName=NetLED6_5 Pin=LED6-5
+Added Net: Name=NetLED6_5
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED7 150505M173300
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED8 150505M173300
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 240 Ohms
+Add Class Member: Failed to add class member : Component R? 240 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Added Room: Name=PCD-disc-schematic

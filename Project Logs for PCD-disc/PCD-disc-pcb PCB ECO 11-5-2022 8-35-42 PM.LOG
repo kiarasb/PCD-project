@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetLED?_1 Pin=LED?-1
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_3" already exists
+Add Net: Net with name "NetLED?_5" already exists
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED? 150505M173300
+Add Class Member: Failed to add class member : Component R? 240 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 200 Ohms
+Add Class Member: Failed to add class member : Component R? 240 Ohms

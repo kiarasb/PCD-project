@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R19
+Change Component Designator: OldDesignator=R14 NewDesignator=R20
+Change Component Designator: OldDesignator=R15 NewDesignator=R21
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Change Component Designator: OldDesignator=R17 NewDesignator=R23
+Change Component Designator: OldDesignator=R18 NewDesignator=R24
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED4 150505M173300
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component LED6 150505M173300
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R19 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R20 240 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R21 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R22 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R23 240 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R24 200 Ohms
+Added Room: Name=PCD-disc-schematic

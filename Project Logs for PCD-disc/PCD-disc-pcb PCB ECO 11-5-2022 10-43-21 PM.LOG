@@ -1,0 +1,27 @@
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R7 200 Ohms
+Add Class Member: Failed to add class member : Component R10 200 Ohms
+Add Class Member: Failed to add class member : Component R11 240 Ohms
+Add Class Member: Failed to add class member : Component R12 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R14 240 Ohms
+Add Class Member: Failed to add class member : Component R16 200 Ohms
+Add Class Member: Failed to add class member : Component R17 240 Ohms
+Add Class Member: Failed to add class member : Component R18 200 Ohms
+Added Room: Name=PCD-disc-schematic
