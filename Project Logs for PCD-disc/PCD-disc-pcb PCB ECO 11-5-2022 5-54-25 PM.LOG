@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Added Component: Designator=SW?(CL-SB-13A-01T)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "563-1326-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=SW?-3
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=NetR1_1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=SW?-1
+Added Net: Name=NetBT1_1
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component SW? CL-SB-13A-01T
