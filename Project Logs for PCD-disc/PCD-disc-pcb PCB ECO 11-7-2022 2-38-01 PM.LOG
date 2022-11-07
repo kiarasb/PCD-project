@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=BT4-2
+Removed Pin From Net: NetName=NetBT1_1 Pin=SW1-1
+Change Footprint: Cannot match pads with new footprint in component :BT1 Footprint:V373
+Change Component Footprint: Designator=BT2 Old Footprint=3096 New Footprint=V373
+Change Component Footprint: Designator=BT3 Old Footprint=3096 New Footprint=V373
+Change Component Footprint: Designator=BT4 Old Footprint=3096 New Footprint=V373
+Change Component Comment : Designator=BT1 Old Comment=LR44 New Comment=V373
+Change Component Comment : Designator=BT2 Old Comment=LR44 New Comment=V373
+Change Component Comment : Designator=BT3 Old Comment=LR44 New Comment=V373
+Change Component Comment : Designator=BT4 Old Comment=LR44 New Comment=V373
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "3096"; UniqueID = "\CKNKOFCT" ("\CKNKOFCT")
+Change component parameters: Designator = "BT2" ("BT2"); Footprint = "3096"; UniqueID = "\SNVISSWF" ("\SNVISSWF")
+Change component parameters: Designator = "BT3" ("BT3"); Footprint = "3096"; UniqueID = "\ONRFPGCY" ("\ONRFPGCY")
+Change component parameters: Designator = "BT4" ("BT4"); Footprint = "3096"; UniqueID = "\VASJIXMT" ("\VASJIXMT")
+Add Pin To Net: Unknown Pin: Pin BT1-3
+Added Pin To Net: NetName=GND Pin=BT4-5
+Added Pin To Net: NetName=NetBT1_4 Pin=SW1-1
+Added Net: Name=NetBT1_4
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-1
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-3
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-4
+Added Net: Name=NetBT1_5
+Added Pin To Net: NetName=NetBT2_5 Pin=BT2-5
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-1
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-3
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-4
+Added Net: Name=NetBT2_5
+Added Pin To Net: NetName=NetBT3_5 Pin=BT3-5
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-1
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-3
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-4
+Added Net: Name=NetBT3_5
+Added Room: Name=PCD-disc-schematic

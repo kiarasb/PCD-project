@@ -1,0 +1,9 @@
+Change Footprint: Cannot match pads with new footprint in component :BT1 Footprint:V373
+Add Pin To Net: Unknown Pin: Pin BT1-3
+Add Pin To Net: Unknown Pin: Pin BT1-4
+Add Pin To Net: Unknown Pin: Pin BT1-5
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R6 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R9 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R12 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R15 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R19 200 Ohms

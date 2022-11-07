@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=PCD-disc-schematic Member=BT1
+Added Component: Designator=BT?(V373)
+Added Pin To Net: NetName=NetBT1_5 Pin=BT?-5
+Change Net Name : Old Net Name=NetBT1_5 New Net Name=NetBT2_1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-3
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-4
+Added Pin To Net: NetName=NetBT?_1 Pin=SW1-1
+Added Net: Name=NetBT?_1
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT? V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R6 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R9 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R12 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R15 200 Ohms
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component R19 200 Ohms
