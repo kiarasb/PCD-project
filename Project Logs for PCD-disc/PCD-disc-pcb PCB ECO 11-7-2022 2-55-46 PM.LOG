@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=BT? NewDesignator=BT2
+Change Component Designator: OldDesignator=BT? NewDesignator=BT3
+Change Component Designator: OldDesignator=BT? NewDesignator=BT4
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT1_1
+Added Pin To Net: NetName=NetBT1_5 Pin=BT1-5
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-1
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-2
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-3
+Added Pin To Net: NetName=NetBT1_5 Pin=BT2-4
+Added Net: Name=NetBT1_5
+Added Pin To Net: NetName=NetBT2_5 Pin=BT2-5
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-1
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-2
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-3
+Added Pin To Net: NetName=NetBT2_5 Pin=BT3-4
+Added Net: Name=NetBT2_5
+Added Pin To Net: NetName=NetBT3_5 Pin=BT3-5
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-1
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-2
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-3
+Added Pin To Net: NetName=NetBT3_5 Pin=BT4-4
+Added Net: Name=NetBT3_5
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT1 V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT2 V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT3 V373

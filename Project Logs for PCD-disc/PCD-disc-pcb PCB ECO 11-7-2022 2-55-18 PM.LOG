@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=BT4-5
+Removed Member From Class: ClassName=PCD-disc-schematic Member=BT1
+Removed Member From Class: ClassName=PCD-disc-schematic Member=BT2
+Removed Member From Class: ClassName=PCD-disc-schematic Member=BT3
+Removed Member From Class: ClassName=PCD-disc-schematic Member=BT4
+Added Component: Designator=BT?(V373)
+Added Component: Designator=BT?(V373)
+Added Component: Designator=BT?(V373)
+Added Component: Designator=BT?(V373)
+Added Pin To Net: NetName=GND Pin=BT?-5
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-3
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-4
+Added Pin To Net: NetName=NetBT?_1 Pin=SW1-1
+Added Net: Name=NetBT?_1
+Add Net: Net with name "NetBT?_1" already exists
+Add Net: Net with name "NetBT?_1" already exists
+Add Net: Net with name "NetBT?_1" already exists
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT? V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT? V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT? V373
+Added Member To Class: ClassName=PCD-disc-schematic Member=Component BT? V373
